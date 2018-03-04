@@ -23,3 +23,5 @@ LevelIO.java - this class reads and writes game levels to and from JSON files.
 ## Techonology used
 Related graphical technology: linear interpolating, Bezier Curve, textures, blended billboarded particles, VBOs, lighting algorithm, L-system... </br>
 
+
+![Screenshot](doc/img.png)
