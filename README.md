@@ -7,20 +7,12 @@ With the different ".map" the program read, different 3D world will be rendered.
 </br>
 
 ## Construction
-### map.json:
-The input maps.
-
-### Game.java 
-This is the main entry point to your game
-### Terrain.java
-This class represents variable height terrain.
-### Tree.java 
-This class represents a tree
-### Road.java 
-This class represents a road as a bezier curve
-### LevelIO.java 
-This class reads and writes game levels to and from JSON files.
-
+mapX.json - The input maps.
+Game.java - this is the main entry point to your game
+Terrain.java - this class represents variable height terrain.
+Tree.java - this class represents a tree
+Road.java - this class represents a road as a bezier curve
+LevelIO.java - this class reads and writes game levels to and from JSON files.
 
 
 ## Techonology used
