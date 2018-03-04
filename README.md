@@ -32,7 +32,8 @@ Related graphical technology: linear interpolating, Bezier Curve, textures, blen
   * t - Turn on or turn off the avatar mode.
   * n - Turn on or turn off the the night mode
   
-  
+## Running Instructions
+ Run the project with Your map (like "mapX.json") as the parameter
 
 
 ## Photo
