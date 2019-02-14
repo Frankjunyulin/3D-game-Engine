@@ -20,7 +20,7 @@ Road.java - this class represents a road as a bezier curve
 LevelIO.java - this class reads and writes game levels to and from JSON files
 
 
-## Techonology used
+## Related Techonology
 Related graphical technology: linear interpolating, Bezier Curve, textures, blended billboarded particles, VBOs, lighting algorithm, L-system... </br>
 
 ## Command
